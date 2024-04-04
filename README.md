@@ -7,6 +7,11 @@ This is a simple weather app that provides current weather information based on 
 - **Search by Location**: Search for weather information of any location by entering a city name.
 - **Responsive Design**: The app is designed to work seamlessly across various devices and screen sizes.
 
+
+## Demo
+
+Check out the live demo [here](https://weather-app-chi-five-63.vercel.app/).
+
 ## Usage
 
 1. Clone the repository:
